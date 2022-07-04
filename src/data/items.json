@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "SURFER STITCH",
+    "price": 179.90,
+    "imgUrl": "/imgs/stitch.jpg"
+  },
+  {
+    "id": 2,
+    "name": "MECHA GODZILLA ",
+    "price": 1229,
+    "imgUrl": "/imgs/godz.jpg"
+  },
+  {
+    "id": 3,
+    "name": "BRUCE LEE",
+    "price": 7649,
+    "imgUrl": "/imgs/lee.jpg"
+  },
+  {
+    "id": 4,
+    "name": "CAPTAIN AMERICA",
+    "price": 179.90,
+    "imgUrl": "/imgs/cap.jpg"
+  }
+]
