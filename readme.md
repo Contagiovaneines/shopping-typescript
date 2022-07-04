@@ -2,4 +2,4 @@
 
 > :milky_way: Repositório publicado para upar o desafio Dio.
 
-![Esse é um print da minha pagina!](/imgs/apresentacao.gif "Desafio Dio Typescript")
+![Esse é um print da minha pagina!](\public\imgs\apresentacao.gif "Desafio Dio Typescript")
